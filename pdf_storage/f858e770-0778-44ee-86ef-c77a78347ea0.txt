@@ -1,0 +1,133 @@
+PROFESSIONAL SKILLS
+- Django
+- Python
+- React
+- DevOps 
+- HTML / CSS
+- Javascript
+- Git CI/CD
+- Docker
+- Celery & Redis
+- PostgreSQL / MySQL  
+THINGS I WANT TO LEARN &
+MAKE IN A YEAR FROM NOW
+- Able to have proficiency about web
+development concepts which I haven't
+been familiar with yet. 
+- To make an autonomus system project
+that will provide people to work on more
+human needed jobs as my system will be
+able to do that for them.
+- Learning full stack development for mobile
+applications.
+- Travel at least 1 foreign city.
+Ahmet Güler I am a Software Developer and looking for an experience that improve myself
+in back end development and could enjoy it.
+HERE'S MY STORY:
+HOBBIES
+- Following new trend technologies from
+blogs and social media
+- Swimming
+- Chess
+- Formula 1
+- E-sports
+COURSES & CERTIFICATES
+- OpenCV Image Processing With Applications - Udemy Oğuzhan Gürbüz
+- Electric and Electronics Education Certification of Attendance - Özel
+İstanbul Bilgisayar Eğitim Merkezi Kursu
+- Python Django Practical Guide (Maximilian Schwarzmüller)
+- Patika.dev Full Stack Developer Patikas
+- Designing, updating and optimizing society's web properties.
+- Directing the event stages as Stage Director.
+- Designing object detecting and tracking algorithms.
+- Programming microcontroller for driving control.
+- Designing / drawing and implementing the electrical circuit.
+Technologies: Python, OpenCV, TensorFlow, Numpy, C/C++
+Tools: PyCharm, Ubuntu 16.0.4 OS, Raspberry Pi, Nvidia Jetson Nano, High
+Resolution Cameras
+CONTACT
+- +90 541 244 08 96
+- ahmetguler.7049@gmail.com
+- LinkedIn: /ahmet-guler
+- İstanbul / Kağıthane
+PERSONAL SKILLS
+- Motivated
+- Multi-tasking
+- Decision Making
+- Entrepreneur Spirited
+- Problem Solver
+- Team Player
+VOLUNTEERING & ASSOCIATIONS
+Head of IT
+YTU SPACE AND ART KITCHEN
+JUNE 2019 - FEBRUARY 2020
+Member of the Advisory Board
+YTU SPACE AND ART KITCHEN
+FEBRUARY 2020 -  2021
+- Graduated at February 2023
+EDUCATIONAL INFO
+Control and Automation Engineering
+YILDIZ TECHNICAL UNIVERSITY
+LANGUAGES
+- English ( Upper Intermediate )
+- German ( Beginner )
+Member of Yildiz Rover Team
+YTU SPACE AND ART KITCHEN
+SEPTEMBER 2019 -  2020
+PROJECTS
+- letsacademy.co ( Python/Django LMS Project still going on )
+- tedxyildiztechnicaluniversity.com ( YTU's official TEDx website )
+- ytuspark.com ( Wordpress project for school club)
+- soforariyorum.herokuapp.com ( Django/React Project as startup )
+- 4startups.club ( Wordpress project for an entrepreneurship blog ) 
+- yildizcep.com ( Django Project for a school app introduction )
+- gamesup.com.tr ( Wordpress project for YTU Technopark )
+- entaksi.com.tr ( PHP / Laravel project for Entaksi)
+- mobilbil.com.tr ( Wordpress project )- Designing, updating and optimizing mobilbil.com.tr.
+- Designing, updating and optimizing entaksi.com.tr.
+- Assisting senior developers on creating and updating Entaksi mobile
+application and its related backend services.
+- Assisting senior engineers in research and development proccesses on IOT
+technologies that used in solutions.
+Technologies: Python, Swift, Numpy, Matplotlib, MySQL, Laravel
+Tools: PyCharm, PuTTY, Postman, VsCode, GPS, Taximeter Hardwares
+- Designing, updating and optimizing letsacademy.co which is a learning
+management system.
+- Technical consultancy for insider startups.
+- Web-site design and management for clients.
+Technologies: Python, DRF, Javascript, PostgreSQL, REST API, HTML CSS, React
+Tools: PyCharm, Postman, Docker, Jenkins, Git, PgAdmin, Sentry
+EXPERIENCES
+R&D Intern at Mobilbil Endüstri Teknolojileri Ltd. Şti.August 2020 - March 2021
+Full Stack Developer at University4SocietyMarch 2021 - May 2022
+- Coding custom enhancements based on customers' needs.
+- Designing automation workflows in Zoho.
+- Developing web based custom actions (Client Script) via Javascript.
+- Preparing API collections, mappings and test cases.
+- Making external integrations with 3rd party organizations or applications.
+- Preparing API documentations and tutorials twhich may help colleagues
+- Developing custom extensions on Zoho Desk & CRM
+Technologies: Python, Deluge, Javascript, SQL, REST & SOAP services
+Tools: Postman, PyCharm, VsCode, Zoho CRM, Zoho Desk
+Software Developer at Cloudyflex December 2022 - October 2023
+- Working on and analyzing product setup.
+- Designing backend structure and all DevOps.
+- Development, testing and optimizing of Rest APIs.
+- Assisting the frontend processes
+Technologies: Python, DRF, PostgreSQL, Javascript, REST API, React (for
+dashboards), JWT, Redis, Celery
+Tools: PyCharm, AWS, PgAdmin, VsCode, Docker, Postman, Heroku, Git,
+Github, Sentry
+Banapos (Contactless Payment System) November 2022 - 2023
+- Python/Django code-based production, extensive testing, and e-commerce
+development.
+- Developing extensions, integration flows and making tests of them in an
+omnichannel back-end structure.
+- Optimizing application for maximum speed and scalability.
+- Third party integrations and analysis of processes.
+- Collaborating with front-end developers, designers, and product managers
+to deliver robust features.
+Technologies: Python, DRF, PostgreSQL, Redis, Celery, Elasticsearch
+Tools: PyCharm, AWS, PgAdmin, VsCode, Docker, Postman, Git, Bitbucket,
+Sentry, Jira, Slack
+Back End (Python) Developer at AkinonOctober 2023 - Present
